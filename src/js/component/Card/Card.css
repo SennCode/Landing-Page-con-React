@@ -1,0 +1,19 @@
+#Card{
+    margin: 20px 15px 0px 15px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.card-text{
+    margin-top: 10px;
+   
+
+}.card-title{
+    margin-top: 10px;
+    text-align: center;
+}
+
+img{
+    border-radius: 5px;
+    width: auto;
+    height: auto;
+}
